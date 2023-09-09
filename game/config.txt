@@ -1,4 +1,4 @@
 Game_name:诱惑双子洛丽塔;
-Game_key:8p5s0t6d;
+Game_key:8p5s0t7d;
 Title_img:title.png;
 Title_bgm:title.ogg;
