@@ -1,0 +1,17 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:h01b.png -next;
+: -next;
+setTextbox:on -next;
+:雅雪躺在垫子上。;
+:我也不知道她是什么时候在椅子上睡着了。;
+:打开工作的邮件，公司的反应也很ok，稍微回复了几句之后我再次看向香夜梨。;
+changeFigure:hk1.png -next;
+:真美啊。;
+:现在这个孩子就像是神之子。;
+changeFigure:none -left -next;
+changeFigure:none -next;
+changeFigure:none -right -next;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_97.txt;

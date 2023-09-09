@@ -1,0 +1,14 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:h01c.png -next;
+: -next;
+setTextbox:on -next;
+:离睡觉还有些时间，香夜梨还在画画。;
+:我的平板上正放着一个关于绘画的讲座视频，似乎比手机要看着舒服。;
+:香夜梨在认真绘画的期间，我暂时在忙着自己的工作。;
+:偶尔从后面看下香夜梨的身姿。;
+:远望着她那雪白温暖的大腿内侧。;
+:看着，看着……;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_38.txt;

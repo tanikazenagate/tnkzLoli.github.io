@@ -1,0 +1,15 @@
+:总感觉好累，很疲惫，感觉身体越来越重，没有力气了。;
+:连饭都不想吃了，如果是以前的话应该会很有精神的才对。;
+playEffect:asioto.ogg -next;
+:就在我迷迷糊糊休息着的时候，外面传来了杂音。;
+setAnimation:enter -target=bg-main -next;
+changeBg:h01b.png -next;
+:我听到了有人踩到院子里的碎石所发出的声音，我注意到了窗户上倒映出了一个人影。;
+:那家伙看起来鬼鬼祟祟的，正朝我这边移动着。;
+:这个时间段还会有小偷？不会是幽灵吧？！;
+:无论是什么都无所谓了，如果能帮我偷走或者诅咒那些处理起来很令人困扰的物品就帮大忙了。;
+:我闭上了眼睛。;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_3.txt;

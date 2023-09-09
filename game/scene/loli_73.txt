@@ -1,0 +1,5 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:white.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_74.txt;

@@ -1,0 +1,18 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:h01c.png -next;
+: -next;
+setTextbox:on -next;
+雅雪:我去洗澡了。 -vocal_2\4494.ogg;
+:雅雪在我的耳边轻轻地说道，看看时间应该把香夜梨也叫去洗澡了。;
+:香夜梨，我试着叫了下，但没有回应。;
+changeFigure:hk1b.png -next;
+:并不是无视我，只是没有听到而已。;
+changeFigure:none -left -next;
+changeFigure:none -next;
+changeFigure:none -right -next;
+:「我先去洗了哟」雅雪这样说着走出了房间。;
+:过了一会儿――;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_98.txt;

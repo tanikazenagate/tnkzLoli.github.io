@@ -1,0 +1,16 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:h01c.png -next;
+: -next;
+setTextbox:on -next;
+changeFigure:hk5.png -next;
+香夜梨:呜ー睡觉…… -vocal_2\1690.ogg;
+changeFigure:none -left -next;
+changeFigure:none -next;
+changeFigure:none -right -next;
+:香夜梨这样说了之后我们两个人马上把床搬过来，把被子整理好让她睡觉。;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:h01d.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_95.txt;

@@ -1,0 +1,5 @@
+intro:树梢;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_73.txt;

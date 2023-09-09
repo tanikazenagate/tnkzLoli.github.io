@@ -1,0 +1,7 @@
+intro:暴风雪之夜;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:white.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_82.txt;

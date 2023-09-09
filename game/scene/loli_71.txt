@@ -1,0 +1,11 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:h02.png -next;
+: -next;
+setTextbox:on -next;
+:进入卧室，互相脱掉衣服赤裸相待。;
+:今天我们三人都已经很累了，无精打采的。;
+:保持这种无法形容的不可思议感，我们像玩闹一样赤裸着躺在床上。;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_72.txt;

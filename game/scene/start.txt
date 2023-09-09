@@ -1,0 +1,5 @@
+intro:滑落;
+bgm:none -enter=1000 -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_1.txt;

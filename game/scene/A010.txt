@@ -1,0 +1,4 @@
+intro:森林精灵;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_105.txt;

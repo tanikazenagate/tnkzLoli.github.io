@@ -1,0 +1,8 @@
+:因为是老房子，锁具也很旧了。我告诉香夜梨“把钥匙插进去转一下”就可以了。;
+bgm:none -enter=2500 -next;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:white.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_56.txt;

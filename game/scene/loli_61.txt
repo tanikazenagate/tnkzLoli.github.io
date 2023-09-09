@@ -1,0 +1,13 @@
+:「嗯」耳边传来她温柔的回应。;
+:随即我倒下了。;
+:「你好重啊」被香夜梨这么说了。;
+:「抱歉，让我休息一会」我好像是这么回复的。;
+:双目紧闭，我感受着这深灰色调般略带压抑的安稳。;
+setAnimation:enter -target=bg-main -next;
+changeBg:white.png -next;
+bgm:none -enter=3500 -next;
+:白得过于耀眼的雪、黑得过于黑暗的夜。一瞬间、我看到了这两种颜色之间的颜色。;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_62.txt;

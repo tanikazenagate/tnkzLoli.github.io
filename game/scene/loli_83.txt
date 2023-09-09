@@ -1,0 +1,16 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:h01d.png -next;
+: -next;
+setTextbox:on -next;
+:在我工作的时候她们两个已经去了卧室了。;
+:看来睡衣派对要正式开始了。;
+:可能是下午睡了觉，现在不是很困。;
+:久违的工作让我只有一种舒心的疲劳感。;
+:工作嘛……要做也不是不可以，只是心里果然还是不想工作啊。;
+:要是有什么都不用做的梦幻般的工作就好了。   这样的妄想虽然很扯淡，但确实是很正常的想法。;
+:家里的灯已经关了，大门也锁上了，让我也来参加睡衣派对吧。;
+bgm:none -enter=3500 -next;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_84.txt;

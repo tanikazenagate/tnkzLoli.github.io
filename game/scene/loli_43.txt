@@ -1,0 +1,16 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:h01.png -next;
+: -next;
+setTextbox:on -next;
+:香夜梨和我一起朝那房间走去。;
+:在垫子上的雅雪看起来已经“准备”完毕了。;
+雅雪:呼呼呼……欢迎欢迎，这里现在是我舞台哟。 -vocal_1\4133.ogg;
+:雅雪微笑着说。;
+雅雪:为了能让哥哥变得坦率，我要给他施加魔法。 -vocal_1\4134.ogg;
+:看着现在雅雪的姿势，我的心脏在剧烈跳动着。;
+:香夜梨明明就站在我身边。;
+雅雪:那么――1，2，3，开始★ -vocal_1\4135.ogg;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_44.txt;

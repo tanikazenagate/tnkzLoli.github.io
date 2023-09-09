@@ -1,0 +1,8 @@
+:因此――因此！;
+:孤身一人的行者哟，变得更坚强吧！！！;
+setTextbox:hide -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:white.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:black.png -next;
+changeScene:loli_101.txt;

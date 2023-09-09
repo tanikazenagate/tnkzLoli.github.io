@@ -1,0 +1,17 @@
+setAnimation:enter -target=bg-main -next;
+changeBg:ending_01.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:ending_02.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:ending_03.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:ending_04.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:ending_05.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:ending_06.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:ending_07.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:ending_logo.png -next;
+changeScene:A010.txt;

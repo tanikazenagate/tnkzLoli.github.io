@@ -1,0 +1,10 @@
+bgm:none -enter=200 -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:logo.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:white.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:shouyeren.png -next;
+setAnimation:enter -target=bg-main -next;
+changeBg:white.png -next;
+changeScene:A012.txt;
